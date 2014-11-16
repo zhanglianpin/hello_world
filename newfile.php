@@ -1,4 +1,4 @@
 <?php
 echo  "hello world";
-//苹果很好吃。
+//苹果很难吃。
 ?>
